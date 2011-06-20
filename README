@@ -1,0 +1,17 @@
+Email Parser
+
+=============
+
+to test it:
+
+$ php -f email_parser.php < teste
+
+=============
+
+changelog:
+
+2011-06-20
+
++ first commit
+
+
